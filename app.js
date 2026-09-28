@@ -1,1 +1,3 @@
-alert("oh-oh!)";
+
+console.log("here comes trouble");
+
